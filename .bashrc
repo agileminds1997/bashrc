@@ -54,4 +54,5 @@ alias web="cd /var/www"
 alias etcap="cd /etc/apache2"
 alias lg="cd /var/log"
 alias wev="cd /var/www && ls -lash /var/www"
+alias ssr="sudo shutdown -r"
 
